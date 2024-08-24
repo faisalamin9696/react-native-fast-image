@@ -1,5 +1,5 @@
 {
-  "name": "@d11/react-native-fast-image",
+  "name": "@faisalamin9696/react-native-fast-image",
   "version": "8.6.10",
   "description": "🚩 FastImage, performant React Native image component.",
   "keywords": [
@@ -9,16 +9,16 @@
     "image",
     "priority"
   ],
-  "homepage": "https://github.com/dream-sports-labs/react-native-fast-image#readme",
+  "homepage": "https://github.com/faisalamin9696/react-native-fast-image#readme",
   "bugs": {
-    "url": "https://github.com/dream-sports-labs/react-native-fast-image/issues"
+    "url": "https://github.com/faisalamin9696/react-native-fast-image/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dream-sports-labs/react-native-fast-image.git"
+    "url": "https://github.com/faisalamin9696/react-native-fast-image.git"
   },
   "license": "(MIT AND Apache-2.0)",
-  "author": "Dream Sports Labs <dreamsportslabs@dream11.com> (https://github.com/dream-sports-labs)",
+  "author": "faisalamin9696 (https://github.com/faisalamin9696)",
   "main": "dist/index.cjs.js",
   "module": "dist/index.js",
   "source": "src/index",
